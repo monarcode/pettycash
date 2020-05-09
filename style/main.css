@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   height: 100vh;
   width: 100%;
-  background: url(../img/bg.png) no-repeat center center/cover;
+  background: url("../img/bg.png") no-repeat center center/cover;
   position: relative;
 }
 
@@ -358,7 +358,7 @@ h1, h2, h3, h4, h5, h6 {
 #about-us {
   min-height: 100%;
   width: 100%;
-  background: url(../img/abt-us-bg-2.png) no-repeat center top/cover;
+  background: url("../img/abt-us-bg-2.png") no-repeat center top/cover;
   position: relative;
   padding-top: auto;
   padding-bottom: auto;
